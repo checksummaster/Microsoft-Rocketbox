@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Converted to gltf
+Assets/Avatars/gltf
+/Assets/convgltf/node_modules/

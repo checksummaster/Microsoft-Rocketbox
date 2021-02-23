@@ -1,0 +1,16 @@
+{
+  "name": "convgltf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fbx2gltf": "^0.9.7-p1",
+    "tga2png": "^0.1.3"
+  }
+}
